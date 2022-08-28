@@ -5,3 +5,4 @@ https://www.raspberrypi.com/products/raspberry-pi-pico/
 # Project program with PyCharm 
 https://www.jetbrains.com/pycharm
 
+
