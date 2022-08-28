@@ -1,6 +1,6 @@
 # Testing RCWL-0516
 # Program by José Alfonso Suárez Moreno
-# e-mail: alfonso.x3elctronic@gmail.com
+# e-mail: alfonso.x3electronic@gmail.com
 
 from machine import Pin
 import utime
